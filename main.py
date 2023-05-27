@@ -1,3 +1,6 @@
+"""
+Codebreaker Game
+"""
 from codebreaker import Codebreaker
 
 INTENTOS_TOTALES = 10
